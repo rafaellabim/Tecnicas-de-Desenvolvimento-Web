@@ -1,14 +1,10 @@
-Atividades de Técnicas de Desenvolvimento de Algoritmos
-Este repositório foi criado com o propósito de armazenar as atividades e exercícios realizados durante o estudo de técnicas de desenvolvimento de algoritmos.
+# Clone o repositório
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-O conteúdo aqui presente serve como um portfólio de aprendizado e pode incluir:
+# Navegue até o diretório do projeto
+cd nome-do-repositorio
 
-Implementações de algoritmos clássicos.
-
-Soluções para problemas de lógica e programação.
-
-Exercícios práticos para fixação de conceitos.
-
-Códigos de exemplo para ilustrar diferentes abordagens.
-
-Sinta-se à vontade para explorar os arquivos e entender as soluções propostas.
+# Instale as dependências (se houver)
+npm install
+# ou
+pip install -r requirements.txt
