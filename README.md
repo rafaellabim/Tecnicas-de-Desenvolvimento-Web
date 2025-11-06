@@ -1,8 +1,8 @@
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone (https://github.com/rafaellabim/Tecnicas-de-Desenvolvimento-Web)
 
 # Navegue até o diretório do projeto
-cd nome-do-repositorio
+cd Tecnicas-de-Desenvolvimento-Web
 
 # Instale as dependências (se houver)
 npm install
